@@ -1,0 +1,12 @@
+channels:
+  - vtraag
+  - conda-forge
+dependencies:
+  - matplotlib==2.1.0
+  - numpy
+  - scipy
+  - pandas
+  - igraph
+  - pycairo==1.13.3
+  - python-igraph
+  - louvain  
