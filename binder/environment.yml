@@ -1,12 +1,18 @@
 channels:
   - vtraag
   - conda-forge
+  - defaults
 dependencies:
-  - matplotlib==2.1.0
+  - python=3.7
+  - jupyter=1.0.0
+  - nbconvert=5.4.0
+  - notebook=5.7.4
+  - tornado<6
+  - matplotlib
   - numpy
   - scipy
-  - pandas
-  - igraph
-  - pycairo==1.13.3
+  - pandas>=0.21.0
+  - pycairo
   - python-igraph
-  - louvain  
+  - leidenalg
+  - metaknowledge
