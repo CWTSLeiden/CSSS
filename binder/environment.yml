@@ -9,4 +9,4 @@ dependencies:
   - igraph
   - pycairo==1.13.3
   - python-igraph
-  - louvain  
+  - leidenalg
