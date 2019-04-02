@@ -42,7 +42,7 @@ There are two ways in which you can run a Jupyter notebook.
 
 1. Launch the "Anaconda navigator" and launch the Jupyter notebook from there. Make sure to select the correct environment ``CSSS`` from the dropdown box at the top of the window. The Jupyter notebook will start in some specific directory, you may need to move the directory to which you unzipped the repository, to ensure it is also visible from Jupyter notebook.
 
-2. Launch the "Anaconda prompt" or "Anaconda terminal", and navigate to the directory to which you unzipped the repository using
+2. In Windows, please launch the "Anaconda prompt". In Mac OS/Linux, open the terminal and activate conda by running source ~/anaconda3/bin/activate. Navigate to the directory to which you unzipped the repository using
     ```
     cd [DIRECTORY]
     ```
@@ -55,7 +55,7 @@ In both approaches, you can open the desired notebook: `01-basics.ipynb` or `02-
 
 ## Issues
 
-If encounter any problem during installation, or with the Python notebook, please report is as an issue at https://github.com/CWTSLeiden/CSSS/issues.
+If encounter any problem during installation, or with the Python notebook, please report it as an issue at https://github.com/CWTSLeiden/CSSS/issues.
 
 # Run online
 
