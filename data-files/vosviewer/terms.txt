@@ -1,0 +1,555 @@
+﻿id	term	occurrences	relevance score
+1	a lumbricoide	11	2.3141
+2	abundance	28	0.8707
+3	acceptability	17	0.8648
+4	access	76	0.9195
+5	accuracy	32	0.2844
+6	act	26	1.6277
+7	action	25	0.7057
+8	acts	10	2.301
+9	adherence	26	0.7939
+10	administration	28	0.736
+11	admission	21	0.9007
+12	adverse event	16	2.0095
+13	agreement	26	0.6926
+14	amodiaquine	21	2.595
+15	anaemia	30	0.6928
+16	animal	56	0.7233
+17	anopheles	10	1.0869
+18	antibody	87	0.4992
+19	antibody response	27	0.7887
+20	antigen	108	0.6071
+21	antigen detection	12	1.4239
+22	antimalarial drug	10	1.5043
+23	antimalarial treatment	18	1.6177
+24	antiretroviral therapy	22	2.0214
+25	antiretroviral treatment	29	1.8361
+26	aor	13	0.7575
+27	arabiensis	11	2.1203
+28	art	34	1.8376
+29	artemether lumefantrine	28	1.7528
+30	artemisinin	45	1.2598
+31	artesunate	41	1.6278
+32	article	32	0.4991
+33	ascaris lumbricoide	19	2.1097
+34	assay	105	0.3265
+35	asymptomatic individual	10	0.3452
+36	attention	34	0.6734
+37	attitude	15	1.1021
+38	awareness	20	0.8483
+39	bangladesh	14	1.3618
+40	barrier	32	1.1333
+41	bed net	26	0.9034
+42	behaviour	43	0.7571
+43	belgium	35	0.5284
+44	benin	35	0.6813
+45	bihar	33	1.3218
+46	birth	19	1.0532
+47	blood	98	0.2187
+48	blood sample	87	0.4195
+49	bolivia	18	1.0507
+50	brazil	12	0.654
+51	buruli ulcer	40	1.163
+52	burundi	23	0.4816
+53	card agglutination test	16	1.6911
+54	care	145	1.1195
+55	case control study	22	0.5025
+56	case management	27	0.7348
+57	case study	18	1.1898
+58	catt	16	1.4986
+59	cattle	31	0.958
+60	cell	70	0.3892
+61	central africa	14	0.3532
+62	central vietnam	32	0.9589
+63	cerebrospinal fluid	26	1.1873
+64	chagas disease	20	0.8005
+65	chloroquine	26	1.4592
+66	choice	27	0.5989
+67	classification	14	0.3726
+68	clinic	41	0.92
+69	clinical isolate	14	0.946
+70	clinical malaria	19	0.6313
+71	clinical sample	14	0.8511
+72	clinical sign	12	0.3697
+73	clinical trial	64	0.7364
+74	clinician	12	0.5821
+75	combination therapy	45	1.2739
+76	combination treatment	13	1.973
+77	community health worker	10	1.1139
+78	compliance	26	0.9479
+79	complication	32	0.6004
+80	compound	25	0.4168
+81	conclusion significance	15	0.433
+82	conclusions significance	67	0.4678
+83	congenital chagas disease	12	2.276
+84	congenital infection	15	2.1774
+85	congo	164	0.5043
+86	control group	14	0.5092
+87	cost effectiveness	30	0.6627
+88	cote divoire	16	0.5223
+89	count	64	0.5516
+90	coverage	61	0.7996
+91	csf	18	1.2873
+92	csp	10	1.1474
+93	cuba	46	1.0261
+94	culture	56	0.3843
+95	cure	20	0.3492
+96	cure rate	21	1.1835
+97	curtain	12	2.1872
+98	cutaneous leishmaniasis	24	0.5467
+99	cyst	20	1.1545
+100	cysticercosis	45	1.9432
+101	dat	21	1.3285
+102	ddt	13	2.3299
+103	degrees c	19	0.2078
+104	delay	31	0.6738
+105	delivery	53	1.1261
+106	deltamethrin	19	2.3467
+107	democratic republic	157	0.5191
+108	dengue	28	0.7332
+109	density	47	0.5081
+110	detection	182	0.2664
+111	diabete	10	0.9531
+112	diagnostic accuracy	21	0.731
+113	diagnostic performance	13	0.8762
+114	diagnostic test	26	0.4004
+115	diagnostic tool	29	0.3881
+116	diarrhoea	10	1.0987
+117	dihydroartemisinin piperaquine	12	2.1793
+118	diptera	18	1.1759
+119	direct agglutination test	21	1.2924
+120	discharge	13	1.325
+121	diversity	30	0.4426
+122	dna	67	0.5467
+123	dog	20	0.8383
+124	domestic animal	11	1.2878
+125	dose	90	0.6189
+126	dr congo	20	0.4279
+127	drc	57	0.554
+128	drug efficacy	19	1.3295
+129	east africa	21	0.3362
+130	ecology	12	0.8811
+131	editorial	11	2.3821
+132	education	30	0.6797
+133	effectiveness	88	0.7578
+134	efficacy	172	0.6426
+135	efficiency	12	0.6026
+136	egg	49	1.2147
+137	elisa	73	0.8491
+138	endemic setting	25	0.7431
+139	environmental factor	13	0.8999
+140	enzyme	50	0.8277
+141	epilepsy	35	1.7675
+142	europe	40	0.4784
+143	example	19	0.6507
+144	expectation	13	1.0642
+145	experience	68	1.0056
+146	experiment	22	0.5704
+147	expression	24	0.7327
+148	facility	39	0.8738
+149	faecal sample	16	0.8769
+150	failure	38	0.6996
+151	falciparum malaria	14	0.7246
+152	feasibility	29	0.4219
+153	fec	10	2.423
+154	field condition	18	0.4187
+155	filter paper	13	0.8792
+156	first line treatment	26	0.9524
+157	first report	10	0.4715
+158	first time	16	0.5756
+159	fly	13	1.9506
+160	focus group discussion	14	1.1715
+161	fold	18	0.3602
+162	forest	14	1.0595
+163	forest malaria	10	1.4586
+164	formulation	24	0.8315
+165	framework	28	0.6275
+166	gambiae	16	2.2306
+167	gambiense	35	1.3564
+168	gender	22	0.4645
+169	gene	81	0.422
+170	genetic diversity	22	0.4079
+171	genotype	36	0.4428
+172	goal	22	0.6184
+173	goat	12	1.23
+174	government	15	1.1415
+175	hat	45	0.9611
+176	health	108	0.652
+177	health care	38	1.7577
+178	health centre	52	1.0803
+179	health district	22	1.3851
+180	health facility	52	0.7874
+181	health service	58	1.6105
+182	health system	51	1.8437
+183	health worker	32	0.8809
+184	healthy control	13	0.691
+185	helminth	31	1.7871
+186	helminth infection	18	2.5369
+187	high sensitivity	12	0.5359
+188	higher risk	24	0.5486
+189	histidine rich protein	15	1.6542
+190	hiv	84	0.8617
+191	hiv aids	15	1.2892
+192	hiv infection	14	0.8844
+193	hiv testing	12	2.4182
+194	home	26	0.9487
+195	hookworm	16	2.7181
+196	hospital	125	0.5609
+197	host	75	0.6726
+198	hour	19	0.4183
+199	house	39	0.7926
+200	hrp	12	1.7831
+201	human	94	0.5259
+202	human african trypanosomiasis	61	0.9204
+203	human cysticercosis	17	2.2077
+204	human host	11	0.7954
+205	human immunodeficiency virus	15	0.5911
+206	human infection	13	0.7083
+207	identification	84	0.2787
+208	ifn gamma	13	1.0255
+209	igm	14	0.8616
+210	illness	37	0.4749
+211	immune response	33	0.7466
+212	immunization	12	1.3073
+213	immunogenicity	47	1.9979
+214	immunosorbent assay	34	0.967
+215	implementation	85	0.5954
+216	important cause	11	0.7125
+217	important role	13	0.5971
+218	incidence rate	20	0.5325
+219	india	84	0.7692
+220	indian subcontinent	36	1.2129
+221	indirect cost	11	1.4543
+222	indoor residual spraying	20	1.8447
+223	infant	36	0.9412
+224	infected mother	13	1.7968
+225	infection intensity	13	2.1954
+226	infection rate	20	0.667
+227	inflammation	14	0.6263
+228	initiative	41	0.9908
+229	insecticidal net	13	2.5042
+230	insecticide	69	1.2326
+231	insecticide resistance	16	2.0071
+232	integration	22	1.2484
+233	intensity	62	0.3743
+234	intermittent preventive treatment	25	1.1001
+235	interview	58	1.0813
+236	iqr	18	0.8924
+237	irs	15	1.8777
+238	isolate	66	0.5381
+239	issue	41	0.5952
+240	ixodes ricinus	12	1.7308
+241	kala azar	24	1.0179
+242	kappa	10	1.0776
+243	kinshasa	50	0.5328
+244	l donovani	13	1.244
+245	laboratory	48	0.2708
+246	larvae	19	0.8288
+247	larval stage	14	1.246
+248	latin america	21	0.5882
+249	leishmania	35	0.7479
+250	leishmania donovani	34	1.0186
+251	leishmania donovani infection	10	1.909
+252	leishmaniasis	22	0.6317
+253	lesion	40	0.5606
+254	lesson	23	1.4635
+255	life cycle	13	0.891
+256	light	16	0.4287
+257	limit	29	0.3421
+258	line	37	0.3771
+259	lineage	18	0.943
+260	literature	37	0.3828
+261	liver	16	0.5715
+262	livestock	15	0.6055
+263	llin	23	2.3642
+264	llins	15	2.6416
+265	locality	16	0.4866
+266	logistic regression	23	0.3479
+267	long lasting insecticidal net	15	1.7476
+268	longitudinal study	15	0.4194
+269	low birth weight	12	1.5831
+270	low income country	25	0.708
+271	low level	10	0.5379
+272	m ulceran	18	1.3594
+273	malaria burden	22	0.693
+274	malaria control	28	0.6064
+275	malaria diagnosis	20	0.749
+276	malaria incidence	19	0.71
+277	malaria infection	54	0.4422
+278	malaria parasite	17	0.4658
+279	malaria prevalence	21	0.5361
+280	malaria rapid diagnostic test	32	1.1088
+281	malaria transmission	62	0.5975
+282	malaria transmission intensity	10	0.7573
+283	malaria treatment	16	1.002
+284	malaria vaccine	28	1.3842
+285	malaria vector	26	1.7322
+286	malawi	21	1.7172
+287	mali	29	0.7531
+288	malnutrition	18	0.7466
+289	manufacturer	10	0.5714
+290	map	27	0.5847
+291	mapping	15	0.6918
+292	mass drug administration	16	0.8529
+293	mda	12	0.6935
+294	mean	35	0.4014
+295	mean age	13	0.7752
+296	medecins sans frontieres	14	0.9379
+297	median	28	0.635
+298	median age	25	0.8884
+299	medical record	11	1.0352
+300	medium	20	0.4754
+301	medline	11	1.0152
+302	meta analysis	13	0.6555
+303	methodology principal finding	15	0.5703
+304	methodology principal findings	56	0.5121
+305	mg kg	17	0.5852
+306	microscopy	66	0.4977
+307	middle income country	10	0.766
+308	migrant	13	0.5622
+309	miltefosine	15	0.8129
+310	ministry	18	1.167
+311	mixed infection	17	0.8085
+312	monoclonal antibody	17	1.2685
+313	monotherapy	16	1.2203
+314	morocco	14	0.6616
+315	mosquito	51	1.0189
+316	mother	48	0.8227
+317	mouse	45	0.7895
+318	mozambique	30	0.7535
+319	msf	11	1.1882
+320	mu l	29	0.9433
+321	mutation	49	0.5988
+322	mycobacterium ulceran	23	1.3135
+323	mycobacterium ulcerans disease	12	1.6582
+324	neglected disease	12	0.6051
+325	neglected tropical disease	14	0.7484
+326	nepal	62	1.0398
+327	net	47	1.5551
+328	neurocysticercosis	29	1.8901
+329	new infection	12	1.8707
+330	newborn	25	1.2266
+331	niger	11	0.8743
+332	none	43	0.2978
+333	northern senegal	19	1.6002
+334	nurse	15	1.3774
+335	observational study	13	0.9762
+336	onchocerciasis	16	0.6799
+337	opportunity	34	0.8025
+338	organization	52	0.5218
+339	overall sensitivity	13	1.4718
+340	overview	17	0.5264
+341	p falciparum	38	1.0042
+342	p falciparum malaria	16	0.9503
+343	p vivax	28	1.1235
+344	pair	15	0.425
+345	panel	36	0.7332
+346	parasitaemia	35	0.3778
+347	parasite density	27	1.1346
+348	participation	17	1.6009
+349	pathogen	41	0.462
+350	pcr	152	0.297
+351	pcr rflp	19	0.5897
+352	perception	35	0.9809
+353	permanet	16	2.8893
+354	person year	12	0.7189
+355	perspective	37	0.8188
+356	peruvian amazon	21	0.6081
+357	phase	64	0.5029
+358	phlebotomus argentipe	12	1.8954
+359	pig	44	1.2969
+360	pilot study	11	0.8983
+361	pkdl	11	1.6392
+362	placebo	11	1.2504
+363	plasma	17	0.8023
+364	plasmodium	37	1.0145
+365	plasmodium falciparum	75	0.4626
+366	plasmodium falciparum infection	12	0.801
+367	plasmodium falciparum malaria	22	1.005
+368	plasmodium malariae	17	1.5481
+369	plasmodium ovale	12	2.1912
+370	plasmodium species	15	1.2288
+371	plasmodium vivax	27	0.877
+372	policy	62	0.6073
+373	polymerase chain reaction	53	0.3009
+374	polymorphism	34	0.6202
+375	porcine cysticercosis	20	2.209
+376	positive predictive value	14	0.3762
+377	post kala azar dermal leishmaniasis	13	1.6738
+378	poverty	22	0.656
+379	praziquantel	14	1.3558
+380	pregnancy	60	0.9399
+381	pregnant woman	60	0.934
+382	present study	63	0.256
+383	prevention	62	0.6867
+384	principle	18	0.2863
+385	programme	166	0.4473
+386	progression	17	0.3755
+387	proof	12	0.4392
+388	prospective study	14	0.4042
+389	protection	51	0.7418
+390	protein	59	0.5995
+391	provincial hospital	11	1.3132
+392	public health	21	0.5638
+393	pyrethroid	13	2.1532
+394	qpcr	11	0.5278
+395	qualitative study	19	1.341
+396	quantification	19	0.4003
+397	rapid diagnostic test	59	0.5282
+398	rdt	47	0.6766
+399	rdts	33	0.6877
+400	real time pcr	28	0.6338
+401	reference laboratory	10	0.804
+402	reference method	11	1.9641
+403	referral	15	1.253
+404	regulation	11	0.5623
+405	relapse	27	0.5991
+406	reproducibility	21	0.9738
+407	researcher	12	0.9098
+408	residence	16	0.5061
+409	resistance	159	0.3618
+410	resource	65	0.6262
+411	resource limited setting	11	0.9349
+412	resource poor setting	10	2.0335
+413	respondent	16	0.9775
+414	retention	15	1.3042
+415	rodent	18	0.9648
+416	rts	12	1.1688
+417	rural burkina faso	18	1.814
+418	rural community	19	0.7496
+419	rural district	17	1.5223
+420	rwanda	38	1.1134
+421	s haematobium	24	1.4706
+422	s mansoni	21	1.6004
+423	s mansoni infection	11	1.4071
+424	safety	98	1.2279
+425	sample	202	0.2239
+426	sand fly	14	1.2369
+427	schistosoma haematobium	15	1.3448
+428	schistosoma mansoni	29	1.3119
+429	schistosoma mansoni infection	18	1.6762
+430	schistosomiasis	45	0.915
+431	school	17	1.4877
+432	schoolchild	26	1.0815
+433	semi	13	0.6222
+434	senegal	27	0.7378
+435	sensitivity	155	0.434
+436	september	30	0.5516
+437	sequence	47	0.5255
+438	sequencing	27	0.4027
+439	sera	30	0.7373
+440	serious adverse event	16	1.982
+441	serology	17	0.6214
+442	seropositivity	15	1.0083
+443	seroprevalence	23	1.0039
+444	serum	38	0.7358
+445	serum sample	24	0.9064
+446	service	57	1.2804
+447	severe malaria	19	0.6225
+448	sheep	11	1.534
+449	short report	12	0.7082
+450	sickness	40	1.0169
+451	sickness patient	12	1.7034
+452	sierra leone	15	0.8664
+453	significant association	15	0.4252
+454	significant correlation	10	0.8619
+455	significant reduction	11	0.9272
+456	single dose	17	1.3867
+457	skin	17	1.0023
+458	socio economic status	12	0.8796
+459	soil	44	1.9191
+460	south africa	28	0.6455
+461	south america	13	0.3408
+462	southeast asia	19	0.9771
+463	southern benin	10	1.3566
+464	spatial distribution	13	0.7991
+465	species	170	0.4428
+466	species identification	21	0.6765
+467	specific antibody	17	1.057
+468	specificity	125	0.4021
+469	specimen	43	0.3643
+470	staff	32	0.7186
+471	start	16	0.5357
+472	sth	22	2.3533
+473	sth infection	11	2.3304
+474	stool	35	0.9815
+475	stool sample	31	1.0999
+476	strain	77	0.4459
+477	subset	16	0.5158
+478	sudan	26	0.5484
+479	sulfadoxine pyrimethamine	25	1.5292
+480	sulphadoxine pyrimethamine	26	1.5423
+481	supervision	14	1.5976
+482	supply	21	1.2577
+483	support	38	1.1209
+484	susceptibility	49	0.4468
+485	systematic review	31	0.5215
+486	t b	16	1.4086
+487	t congolense	11	1.7586
+488	t cruzi	16	1.7261
+489	t solium	25	1.7418
+490	tablet	18	1.1446
+491	taenia solium	27	1.7986
+492	taenia solium cysticercosis	23	1.9692
+493	taeniasis	15	1.8607
+494	technique	87	0.2832
+495	test	211	0.2321
+496	test result	27	0.6688
+497	tete	11	1.6207
+498	tick	21	1.2533
+499	time point	12	0.4318
+500	tissue	25	0.5192
+501	titre	20	0.7125
+502	tolerability	18	1.8715
+503	total cost	14	1.1251
+504	training	32	0.9558
+505	transmission dynamic	16	0.7011
+506	trap	18	0.8482
+507	traveler	13	0.9764
+508	treatment failure	38	0.6839
+509	treatment outcome	33	0.4888
+510	trial	142	0.4758
+511	trichuris trichiura	18	2.8185
+512	tropical disease	11	0.6173
+513	tropical medicine	16	0.5709
+514	trypanosoma	50	1.0323
+515	trypanosoma brucei	13	1.5148
+516	trypanosoma brucei gambiense	15	1.4779
+517	trypanosoma congolense	11	1.5734
+518	trypanosoma cruzi	25	1.8604
+519	trypanosome	33	1.1162
+520	trypanosomiasis	21	1.4596
+521	trypanosomosis	17	1.2905
+522	tsetse	14	1.6541
+523	tsetse fly	17	1.971
+524	uncomplicated falciparum malaria	17	2.1791
+525	uncomplicated malaria	30	1.7924
+526	uncomplicated plasmodium falciparum malaria	19	2.4514
+527	uptake	29	0.7425
+528	urban area	24	0.4335
+529	urine	24	0.8298
+530	urine sample	13	0.9968
+531	vaccination	38	1.0759
+532	vaccine	70	1.0634
+533	validation	17	0.3754
+534	validity	16	0.366
+535	vector	93	0.6492
+536	vector control	34	1.0335
+537	venezuela	10	1.4684
+538	vietnam	61	0.579
+539	virus	48	0.4782
+540	visceral leishmaniasis	129	0.8124
+541	visit	32	0.9114
+542	vitro	28	0.5322
+543	vivo	10	0.6591
+544	vl case	16	1.3056
+545	vl patient	18	0.8485
+546	vl treatment	12	1.2288
+547	volunteer	22	0.6536
+548	weight	33	0.5841
+549	western kenya	11	0.8439
+550	whole blood	12	1.3525
+551	wide range	13	0.4298
+552	woman	80	0.8942
+553	year period	15	0.7455
+554	zoonotic disease	13	0.8331
