@@ -1,19 +1,17 @@
 name: CSSS
 channels:
-  - vtraag
   - conda-forge
   - defaults
 dependencies:
-  - python=3.7
-  - jupyter=1.0.0
-  - nbconvert=5.4.0
-  - notebook=5.7.4
-  - tornado<6
+  - python=3.8
+  - jupyter
+  - nbconvert
+  - notebook
+  - tornado
   - matplotlib
   - numpy
   - scipy
-  - pandas>=0.21.0
+  - pandas
   - pycairo
   - python-igraph
   - leidenalg
-  - metaknowledge
