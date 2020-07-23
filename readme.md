@@ -81,3 +81,15 @@ The Python notebooks can be run online without the need for installation. Please
 
 * MyBinder.org
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CWTSLeiden/CSSS/master?filepath=02-advanced.ipynb)
+
+
+## `03-prepare-VOSviewer-term-map.ipynb`
+
+* GESIS (Leibniz Institute for the Social Sciences)
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/CWTSLeiden/CSSS/master?filepath=03-prepare-VOSviewer-term-map.ipynb)
+
+* PANGEO
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/CWTSLeiden/CSSS/master?filepath=03-prepare-VOSviewer-term-map.ipynb)
+
+* MyBinder.org
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CWTSLeiden/CSSS/master?filepath=03-prepare-VOSviewer-term-map.ipynb)
